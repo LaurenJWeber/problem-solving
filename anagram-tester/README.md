@@ -1,4 +1,4 @@
-#anagram-tester
+# anagram-tester
 
 Supply two words or phrases and determine if they are anagrams.
 
