@@ -10,3 +10,5 @@ Keeping the synapses firing.
 ## Contents
 
 * [anagram-tester](anagram-tester)
+
+* [fizzbuzz](fizzbuzz)
