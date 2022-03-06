@@ -12,3 +12,5 @@ Keeping the synapses firing.
 * [anagram-tester](anagram-tester)
 
 * [fizzbuzz](fizzbuzz)
+
+* [Godel Escher Bach MU Solver](godel-escher-bach-miu-solver)
